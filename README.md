@@ -9,3 +9,11 @@ For this one-week mini project, we're teaming up to:
 - Load the cleaned data into a Postgres database
 
 📊 Data provided by edX Boot Camps LLC for educational purposes.
+
+
+
+Two is company. Three is a crowd!
+
+Welcome to our data packed, crowded project 2. :)
+
+NOTE: When importing the CSV files into each table, please leave 'campaign' for last. If you do not do this, everything will fail and so will you. 
