@@ -7,3 +7,5 @@ For this one-week mini project, we're teaming up to:
 - Transform the data into four structured CSV files
 - Design an Entity Relationship Diagram (ERD) and define our table schema
 - Load the cleaned data into a Postgres database
+
+📊 Data provided by edX Boot Camps LLC for educational purposes.
